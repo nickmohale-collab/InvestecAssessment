@@ -1,0 +1,19 @@
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.exe
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.deps.json
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.runtimeconfig.json
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.runtimeconfig.dev.json
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.dll
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\ref\Investec Assessment.dll
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Investec Assessment.pdb
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.AssemblyInfoInputs.cache
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.AssemblyInfo.cs
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.csproj.CoreCompileInputs.cache
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.dll
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\ref\Investec Assessment.dll
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.pdb
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.genruntimeconfig.cache
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nickm\source\repos\Investec Assessment\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.csproj.CopyComplete
+C:\Users\nickm\source\repos\Investec Assessment\obj\Debug\net5.0\Investec Assessment.csproj.AssemblyReference.cache

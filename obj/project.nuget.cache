@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/349wG63Xu4V+uq6Scg12TaeSoY5hY5GJCJkPUsCKSGP8h39ojP0xYFZ31AaawsEgShAGqd+JYEWpHgz0i5eow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nickm\\source\\repos\\Investec Assessment\\Investec Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nickm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nickm\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
